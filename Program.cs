@@ -10,8 +10,8 @@ namespace ConsoleApp7
             //Задание 1
             //Console.Write("Ввыведите слово");
             //string x = Console.ReadLine();
-            //int count = 0;
-            /*Решение 1*///while(count<10)
+            //int count = 1;
+            /*Решение 1*///while(count<=10)
                          //{
                          //    Console.WriteLine("Привет");
                          //    count ++;
@@ -22,9 +22,9 @@ namespace ConsoleApp7
                           //    Console.WriteLine("Привет");
                           //    count++;
                           //}
-                          //while (count < 10);
+                          //while (count <= 10);
 
-            /*Решение 3*///for(int count=0;count<10;count++)
+            /*Решение 3*///for(int count=1;count<=10;count++)
                          //{
                          //    Console.WriteLine("Привет");
                          //}
