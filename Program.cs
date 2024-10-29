@@ -9,7 +9,7 @@ namespace ConsoleApp7
             string[] omas = new string[5];
             //Задание 1
             //Console.Write("Ввыведите слово");
-            //int x = int.Parse(Console.ReadLine());
+            //string x = Console.ReadLine();
             //int count = 0;
             /*Решение 1*///while(count<10)
                          //{
